@@ -135,6 +135,8 @@ AB; whoami  # выполнит команду whoami
 
      - Самый быстрый и наименее заметный
 
+[SYN_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/syn_scan.pcapng)
+
 ![SYN_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/syn_scan.png)
 
 #### FIN сканирование (-sF):
