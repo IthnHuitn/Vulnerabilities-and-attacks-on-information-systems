@@ -135,8 +135,6 @@ AB; whoami  # выполнит команду whoami
 
      - Самый быстрый и наименее заметный
 
-[SYN_SCAN.PCAPNG](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/syn_scan.pcapng)
-
 ![SYN_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/syn_scan.png)
 
 #### FIN сканирование (-sF):
@@ -147,6 +145,8 @@ AB; whoami  # выполнит команду whoami
 
      - Обходит некоторые фаерволы
 
+![FIN_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/fin_scan.png)
+
 #### Xmas сканирование (-sX):
 
      - Отправляет пакеты с флагами FIN, URG, PUSH
@@ -154,6 +154,8 @@ AB; whoami  # выполнит команду whoami
      - Поведение аналогично FIN сканированию
 
      - Используется для определения ОС
+
+![XMAS_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/xmas_scan.png)
 
 #### UDP сканирование (-sU):
 
@@ -163,6 +165,7 @@ AB; whoami  # выполнит команду whoami
 
      - Очень медленное из-за таймаутов
 
+![UDP_SCAN](https://github.com/IthnHuitn/Vulnerabilities-and-attacks-on-information-systems/blob/main/udp_scan.png)
 #### Реакция Metasploitable:
 
      - На SYN: нормальные ответы SYN-ACK
